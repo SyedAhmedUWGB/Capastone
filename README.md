@@ -1,2 +1,2 @@
 # Capastone
-Code used in capstone project
+Code used in capstone project for detection and classification of lung nodules
